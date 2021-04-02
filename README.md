@@ -1,11 +1,11 @@
 <h1 align="center">Hello.!!👋 I'm SAI HARITHA SAMPATH</h1>
-<h3 align="center">TECHNOWIZ😛 || FOCUSED ON EXOPLORING MEW THINGS..</h3>
+<h3 align="center">TECHNOWIZ😛 || FOCUSED ON EXOPLORING NEW THINGS..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiharitha29&label=Profile%20views&color=0e75b6&style=flat" alt="saiharitha29" /> </p>
 
 - 🔭 I’m currently working on **Project4**
 
-- 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/sai-haritha-sampath](http://www.linkedin.com/in/sai-haritha-sampath)
+- 👨‍💻 All of my projects are available at GITHUB:(https://github.com/SaiHaritha29) LINKEDIN:(http://www.linkedin.com/in/sai-haritha-sampath)
 
 - 📫 How to reach me **Saiharitha69@gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@haritha_sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@haritha_sampath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sai-haritha-sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sai-haritha-sampath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-haritha-sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sai-haritha-sampath" height="30" width="40" /></a>
 <a href="https://instagram.com/teddy_sh__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="teddy_sh__" height="30" width="40" /></a>
 </p>
 
