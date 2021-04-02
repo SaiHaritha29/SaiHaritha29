@@ -16,7 +16,7 @@ LINKEDIN (http://www.linkedin.com/in/sai-haritha-sampath)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haritha_sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="haritha_sampath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sai-haritha-sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sai-haritha-sampath" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sai-haritha-sampath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/sai-haritha-sampath" height="30" width="40" /></a>
 <a href="https://instagram.com/teddy_sh__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="teddy_sh__" height="30" width="40" /></a>
 </p>
 
