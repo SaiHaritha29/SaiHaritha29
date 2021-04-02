@@ -1,5 +1,5 @@
 <h1 align="center">Hello.!!👋 I'm SAI HARITHA SAMPATh</h1>
-<h3 align="center">TECHNOWIZ😛 || FOCUSED TO EXPLORE MORE..</h3>
+<h3 align="center">TECHNOWIZ😛 || FOCUSED ON EXPLORING MORE THINGS..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiharitha29&label=Profile%20views&color=0e75b6&style=flat" alt="saiharitha29" /> </p>
 
