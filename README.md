@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on *Project4*
 
 - 👨‍💻 All of my projects are available at
--  GITHUB   (http://github.com/SaiHaritha29)
--  LINKEDIN (http://www.linkedin.com/in/sai-haritha-sampath)
+GTHUB   (http://github.com/SaiHaritha29)
+LINKEDIN (http://www.linkedin.com/in/sai-haritha-sampath)
 
 - 📫 How to reach me *Saiharitha69@gmail.com*
 
