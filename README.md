@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Project4*
 
-- 👨‍💻 All of my projects are available at [github.com/SaiHaritha29 linkedin.com/in/sai-haritha-sampath](github.com/SaiHaritha29 linkedin.com/in/sai-haritha-sampath)
+- 👨‍💻 All of my projects are available at [http://github.com/SaiHaritha29 http://www.linkedin.com/in/sai-haritha-sampath](http://github.com/SaiHaritha29 http://www.linkedin.com/in/sai-haritha-sampath)
 
 - 📫 How to reach me *Saiharitha69@gmail.com*
 
