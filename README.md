@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiharitha29&label=Profile%20views&color=0e75b6&style=flat" alt="saiharitha29" /> </p>
 
-- 🔭 I’m currently working on **Project4**
+- 🔭 I’m currently working on **Project4 and Consultancy Project for the compant V2 Exports**
 
 - 👨‍💻 All of my projects are available at GITHUB:(https://github.com/SaiHaritha29) LINKEDIN:(http://www.linkedin.com/in/sai-haritha-sampath)
 
