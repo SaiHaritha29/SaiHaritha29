@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Saiharitha69@gmail.com**
 
-- 📄 Know about my experiences [http://saiharitha.s3-website.ap-south-1.amazonaws.com/](http://saiharitha.s3-website.ap-south-1.amazonaws.com/) || https://github.com/SaiHaritha29/RESUME
+- 📄 Know about my experiences [https://saiharitha29.github.io/](https://saiharitha29.github.io/) || https://github.com/SaiHaritha29/RESUME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
