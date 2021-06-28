@@ -11,7 +11,6 @@
 
 - 📫 Resume link [https://saiharitha29.github.io/](https://saiharitha29.github.io/)
 
-- 📄 Know about my experiences https://github.com/SaiHaritha29/RESUME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
